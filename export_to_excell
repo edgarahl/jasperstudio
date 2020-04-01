@@ -1,0 +1,6 @@
+Exportar imagenes  a excell con jaspertudio
+   https://community.jaspersoft.com/wiki/how-display-images-documents-are-exported-ms-excel
+   
+   1. Se debe ir a las propiedades del reporte
+   2. Seleccionar Misc: Edit Propierties
+   3. Poner en true la propiedad: net.sf.jasperreports.export.xls.ignore.graphics
