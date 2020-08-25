@@ -1,0 +1,5 @@
+1. Abrir el reporte y ver sus propiedades.
+2. click en "Avanzadas"
+3. click en Mis, Edit Propierties
+4. Buscar la seccion Exports
+5. buscar la linea: net.sf.jasperreports.export.xls.collapse.row.span y ponerla en false
